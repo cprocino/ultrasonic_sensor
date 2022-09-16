@@ -5,21 +5,21 @@ here is the code I used courtesy of help from Gaby:
 
 
 
-import time #huge thanks to gaby for help on this code
-import board
-import adafruit_hcsr04
-import neopixel
-import simpleio
+    import time #huge thanks to gaby for help on this code
+    import board
+    import adafruit_hcsr04
+    import neopixel
+    import simpleio
 
-sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)   # creating sonar variable
-dot = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=0.5) # creating dot variable 
+    sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D5, echo_pin=board.D6)   # creating sonar variable
+    dot = neopixel.NeoPixel(board.NEOPIXEL, 10, brightness=0.5) # creating dot variable 
 
-r = 0  # setting my three colors ints to 0
-g = 0
-b = 0
+    r = 0  # setting my three colors ints to 0
+    g = 0
+    b = 0
 
 
-while True:
+    while True:
 
     try:
         distance = sonar.distance # setting the variables
