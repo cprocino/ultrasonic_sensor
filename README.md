@@ -1,10 +1,11 @@
-# CPyProjectTemplate
+# ultra sonic sensor
 for this project we needed to set up an ultra-sonic sensor to show a color value on its built in led dependent on the distence from the sensor.
 this project took some time to get the code and set up the wiring but over all was not too difficult 
 here is the code I used courtesy of help from Gaby:
-# huge thanks to gaby for help on this code
 
-import time
+
+
+import time #huge thanks to gaby for help on this code
 import board
 import adafruit_hcsr04
 import neopixel
