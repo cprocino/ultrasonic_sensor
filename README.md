@@ -63,5 +63,10 @@ here is the code I used courtesy of help from Gaby:
     print(r, g, b)  
     dot.fill((r, g, b)) # tells the dot variable what to do
     time.sleep(0.05) # delay so code don't break
+    
+    
+ this is the wiring diagram:
+ ![Screenshot 2022-09-19 151305](https://user-images.githubusercontent.com/71406784/191097368-cd9934de-e873-4235-b3da-187033846d88.png)
+
 
 this project took focus and time to complete and the consistant problem of getting the correct file to the right place in my computer. the code for this is long but not overly complex.
