@@ -67,6 +67,12 @@ here is the code I used courtesy of help from Gaby:
     
  This is the wiring diagram:
  ![Screenshot 2022-09-19 151305](https://user-images.githubusercontent.com/71406784/191097368-cd9934de-e873-4235-b3da-187033846d88.png)
+ 
+ here is a video.
+
+
+https://user-images.githubusercontent.com/71406784/191340307-837a51d7-b6ea-4963-bc91-7a316856a9d1.mp4
+
 
 
 This project took focus and time to complete and the consistant problem of getting the correct file to the right place in my computer. the code for this is long but not overly complex. I would in the future write my code better and study the concepts of loops and color theor a bit more. 
